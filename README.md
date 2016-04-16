@@ -22,7 +22,7 @@ Start by ensuring that all dependencies are installed. The Mandelbrot Visualizer
 
 Next, clone this repository.
 
-> git clone https://gitlab.com/RedShift/Mandelbrot.git
+> git clone https://gitlab.com/CoronalRain/Mandelbrot.git
 
 Once the repo is successfully cloned, navigate to the Mandelbrot directory and install the package.
 
