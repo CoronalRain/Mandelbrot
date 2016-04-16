@@ -107,7 +107,7 @@ if __name__ == '__main__':
         mandel = mandelbrot(n, size, xlim, ylim, p)
     if verbose:
         end = time.time()
-        print "Time elapsed: %s seconds" % (end-start)
+        print("Time elapsed:", (end-start), "seconds.")
     
     fig = plt.figure(figsize=(10,10), frameon=False)
     ax = plt.Axes(fig, [0., 0., 1., 1.])
